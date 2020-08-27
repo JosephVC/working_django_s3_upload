@@ -1,0 +1,1 @@
+web: gunicorn working_django_s3_upload.wsgi --log-file -
